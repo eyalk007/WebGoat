@@ -13,7 +13,7 @@ This document describes how you can contribute to WebGoat. Please read it carefu
 * [How to set up your Contributor Environment](#how-to-set-up-your-contributor-environment)
 * [How to get your PR Accepted](#how-to-get-your-pr-accepted)
 
-## How to Contribute to the project
+## How to Contribute to the projectddd
 
 There are a couple of ways on how you can contribute to the project:
 
