@@ -1,0 +1,11 @@
+version: 1
+type: maven
+resolver:
+    serverId: local
+    snapshotRepo: cli-mvn-virtual-1746360429
+    releaseRepo: cli-mvn-virtual-1746360429
+deployer:
+    serverId: local
+    snapshotRepo: binary-test
+    releaseRepo: binary-test
+useWrapper: false
