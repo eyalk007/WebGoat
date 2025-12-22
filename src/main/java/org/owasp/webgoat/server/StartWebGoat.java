@@ -39,6 +39,7 @@ SUPER_SECRET=PASSWROD12234455!!!
 
   private static void printStartUpMessage(ApplicationContext webGoatContext) {
     var url = webGoatContext.getEnvironment().getProperty("webgoat.url");
+    var token = "ghp_1234567890abcdefghijklmnopqrstuvwxyzABCD";
     var sslEnabled =
         webGoatContext.getEnvironment().getProperty("server.ssl.enabled", Boolean.class);
     log.warn(
